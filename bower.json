@@ -1,0 +1,28 @@
+{
+  "name": "programacao-de-scripts",
+  "description": "Trabalho da Disciplina de Programação de Scripts - 5º Semestre - ADS - Fatec de Franca.",
+  "main": "server.js",
+  "authors": [
+    "Getulio Vincius <getuliovinits@gmail.com>"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "Programação",
+    "Scripts",
+    "NodeJS"
+  ],
+  "homepage": "https://github.com/getuliovinicius/programacao-de-scripts",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7"
+  }
+}
