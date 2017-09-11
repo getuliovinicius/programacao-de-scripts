@@ -1,15 +1,15 @@
-var key = Math.floor(Math.random() * 10000); 
+// var key = Math.floor(Math.random() * 10000); 
 
-var novaMensagem = {
-    $key :
-        {
-            'nome' : 'Getulio',
-            'email' : 'getulio@gmail.com',
-            'mensagem' : 'teste'
-        }
-};
+// var novaMensagem = {
+//     key : 
+//         {
+//             'nome' : 'Getulio',
+//             'email' : 'getulio@gmail.com',
+//             'mensagem' : 'teste'
+//         }
+// };
 
-console.log(novaMensagem);
+// console.log(novaMensagem);
 
 // var jsonfile = require('jsonfile');
 
@@ -21,20 +21,22 @@ console.log(novaMensagem);
 //         console.log(err);
 //     } else {
 
-//         var listaMensagens = {};
-//         listaMensagens = JSON.parse(data);
-//         listaMensagens.push(novaMensagem); 
-//         var objeto = JSON.stringify(listaMensagens);                
+//         console.log(data);
 
-//         console.log(objeto)
+//         // var listaMensagens = {};
+//         // listaMensagens = JSON.parse(data);
+//         // listaMensagens.push(novaMensagem); 
+//         // var objeto = JSON.stringify(listaMensagens);                
 
-//         jsonfile.writeFile(file, obj, {flag: 'a'}, function (err) {
-//             if (err) {
-//                 console.log(err);
-//             } else {
-//                 res.redirect('/');
-//             }
-//         });
+//         // console.log(objeto)
+
+//         // jsonfile.writeFile(file, obj, {flag: 'a'}, function (err) {
+//         //     if (err) {
+//         //         console.log(err);
+//         //     } else {
+//         //         res.redirect('/');
+//         //     }
+//         // });
 
 //     }
 
