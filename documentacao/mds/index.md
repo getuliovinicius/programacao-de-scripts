@@ -5,8 +5,14 @@ Este é um repositório para a avaliação da Disciplina de **Programação de S
 
 ## Requisitos
 
-+ [Requisitos do Trabalho](documentacao/avaliacao-01_projeto-menu- e-cadastro.pdf)
++ [Requisitos do Trabalho](avaliacao-01_projeto-menu- e-cadastro.pdf)
 + NodeJS
++ Git
++ Bower
+
+```
+$ npm install bower -g
+```
 
 ## Passo a passo
 

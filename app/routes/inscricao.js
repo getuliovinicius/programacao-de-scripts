@@ -6,4 +6,5 @@ module.exports = function(app) {
 
     app.route('/inscricao')
         .post(controller.inscricao);
+
 };
