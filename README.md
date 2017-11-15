@@ -19,7 +19,7 @@ $ npm install bower -g
 **Comandos para instalação**
 
 ```
-$ git clone https://github.com/getuliovinicius/programacao-de-scripts.git
+$ git clone https://github.com/getuliovinicius/trabalho-01-programacao-de-scripts.git
 $ cd programacao-de-scripts
 $ npm install
 $ bower install
