@@ -1,7 +1,7 @@
-AVALIAÇÃO DE PROGRAMAÇÃO DE SCRIPTS
-===================================
+AVALIAÇÃO: TRABALHO-01 DE PROGRAMAÇÃO DE SCRIPTS
+================================================
 
-Este é um repositório para a avaliação da Disciplina de **Programação de Scripts** do 5º Semestre do curso de Analise e Desenvolvimento de Sistemas da Fatec de Franca.
+Este é um repositório para a avaliação do "Trabalho-01" da Disciplina de **Programação de Scripts** do 5º Semestre do curso de Analise e Desenvolvimento de Sistemas da Fatec de Franca.
 
 ## Requisitos
 

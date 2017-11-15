@@ -1,7 +1,7 @@
 {
-  "name": "programacao-de-scripts",
+  "name": "trabalho-01-programacao-de-scripts",
   "version": "1.0.0",
-  "description": "Este é um repositório para o trabalho da Disciplina de Programação de Scripts do 5º Semestre do curso de Analise e Desenvolvimento de Sistemas da Fatec de Franca.",
+  "description": "Este é um repositório para o 'trabalho-01' da Disciplina de Programação de Scripts do 5º Semestre do curso de Analise e Desenvolvimento de Sistemas da Fatec de Franca.",
   "main": "server.js",
   "directories": {
     "doc": "documentacao"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getuliovinicius/programacao-de-scripts.git"
+    "url": "git+https://github.com/getuliovinicius/trabalho-01-programacao-de-scripts.git"
   },
   "keywords": [
     "Programação",
@@ -22,9 +22,9 @@
   "author": "Getulio Vincius <getuliovinits@gmail.com>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/getuliovinicius/programacao-de-scripts/issues"
+    "url": "https://github.com/getuliovinicius/trabalho-01-programacao-de-scripts/issues"
   },
-  "homepage": "https://github.com/getuliovinicius/programacao-de-scripts#readme",
+  "homepage": "https://github.com/getuliovinicius/trabalho-01-programacao-de-scripts#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "ejs": "^2.5.7",
